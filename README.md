@@ -4,5 +4,6 @@
 
 Doc - Spring Boot With MongoDB CRUD Operation.docx and App - spring-mongodb
 
-
 Doc - CRUD REST API with MongoDB Atlas GUI.docx and App - springboot-mongo-atlas
+
+Doc - MongoDB Auto-Generated @Id Example and App - mongo-sequence-id-example
